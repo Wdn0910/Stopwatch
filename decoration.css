@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  background: #333;
+  color: #bbb;
+  font-family: Menlo;
+
+}
+
+button {
+  font-size: 4vw;
+  margin: 0 0.5em;
+  text-decoration: none;
+  text-align: center;
+  align-items: center;
+  border-style: none;
+  background: #333;
+  color: aquamarine;
+}
+
+nav {
+  color: aquamarine;
+  text-align: center;
+  font-size: 5cm;
+
+}
